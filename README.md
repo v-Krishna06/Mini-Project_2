@@ -24,24 +24,7 @@ A modern and responsive photography portfolio landing page built entirely with *
 
 ---
 
-## Project Structure
 
-```
-Photo-Studio-UI/
-│
-├── assets/
-│   └── images/
-│
-├── screenshots/
-│   ├── PhotoStudioUi-1.png
-│   └── PhotoStudioUi-2.png
-│
-├── index.html
-├── style.css
-└── README.md
-```
-
----
 
 ## Preview
 
